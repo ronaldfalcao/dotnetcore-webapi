@@ -50,8 +50,7 @@ Aqui também foi criado o arquivo default *ValuesController.cs* na pasta *Contro
 Por default o dotnet Core usa a porta 5000 em localhost, para acessar nossa webAPI basta inserir a seguinte URL no navegador
 <pre><code>http://localhost:5000/api/AreaQuadradoExemplo/Lado/{valor do lado}</code></pre>
 
-![Saída da API](https://github.com/ronaldfalcao/dotnetcore-webapi/blob/master/quadrado-sa%C3%ADda-navegador.png)
-
+![Saída da API](https://github.com/ronaldfalcao/dotnetcore-webapi/blob/master/assets/images/quadrado-sa%C3%ADda-navegador.png)
 
 O seu retorno deve ser o valor do lado do quadrado e sua área. Muito útil :-)
 
