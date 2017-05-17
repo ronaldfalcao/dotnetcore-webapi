@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "09f05545e74d6c9bc9ba594a8c2e7ce9f3f822c7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Quadrado/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0-preview1-25301-01"
+        },
+        "runtime": {
+          "Quadrado.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Packaging.Tools/1.0.0-preview1-25301-01": {},
+      "NETStandard.Library/2.0.0-preview1-25301-01": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.Packaging.Tools": "1.0.0-preview1-25301-01"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quadrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-btskMGDBN7NHrjRlRB49u/qTM+XcuIBJICNjTvYdhKJx1SOKtEmogavIJtcX6va8P6C7XHMbGFjNkIfmvLYuLw==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Packaging.Tools/1.0.0-preview1-25301-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UTD3IQWQSf93CnyGkEu4uUFy8aETJDnqHaj67+CCJ/IRQPmnAsqgg4eMFmERENrMX9fKyTPT/gHyazLmdgr5ZQ==",
+      "path": "microsoft.packaging.tools/1.0.0-preview1-25301-01",
+      "hashPath": "microsoft.packaging.tools.1.0.0-preview1-25301-01.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0-preview1-25301-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dKVKrKuU5zWZ+IAO9YH04nwOmI4IZgB8AUMcfjs++VlNMdzO2wJiytDD80lf+HRvDknuFc1bvaHbZadGWZJ1PQ==",
+      "path": "netstandard.library/2.0.0-preview1-25301-01",
+      "hashPath": "netstandard.library.2.0.0-preview1-25301-01.nupkg.sha512"
+    }
+  }
+}

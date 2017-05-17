@@ -1,0 +1,7 @@
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/bin/Debug/netstandard2.0/Quadrado.deps.json
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/bin/Debug/netstandard2.0/Quadrado.dll
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/bin/Debug/netstandard2.0/Quadrado.pdb
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/obj/Debug/netstandard2.0/Quadrado.csproj.CoreCompileInputs.cache
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/obj/Debug/netstandard2.0/Quadrado.AssemblyInfo.cs
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/obj/Debug/netstandard2.0/Quadrado.dll
+/home/ronald/workspace/dotnet/ApiRestQuadrado/Quadrado/obj/Debug/netstandard2.0/Quadrado.pdb
