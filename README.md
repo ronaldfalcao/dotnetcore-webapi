@@ -60,4 +60,5 @@ http://www.c-sharpcorner.com/article/create-your-first-asp-net-core-application-
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/your-first-mac-aspnet
 https://medium.com/@felipedutratine/how-to-code-and-host-a-dotnet-core-webapi-on-a-linux-container-b8a459b00fa7
 https://jonhilton.net/2016/10/19/creating-a-new-net-core-web-application-what-are-your-options/
+https://youtu.be/rxazv8KcyRU
 
