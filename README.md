@@ -30,7 +30,7 @@ Entre na pasta, precisamos agora atualizar as dependências da classlib
 <pre><code>dotnet restore</code></pre>
 
 O dotnet cria o arquivo padrão dentro dessa pasta, *Class1.cs*. Alterei para *QuadradoClasse.cs*. O conteúdo dessa classe se encontra no arquivo de mesmo nome versionado. Hora do build!!!!
-<pre><code>dotnetbuild</code></pre>
+<pre><code>dotnet build</code></pre>
 
 Caso tenha cometido algum erro você pode debugá-lo utilizando a aba Debug Console do VS Code, ou pela saída do terminal. Como não tenho intimidade com a ferramenta recorri ao terminal mesmo. Vamos criar agora nossa webAPI
 <pre><code>dotnet new webapi -n ApiQuadrado</code></pre>
@@ -39,7 +39,7 @@ Precisamos vincular nossa Web API ao projeto principal
 <pre><code>dotnet sln add ApiQuadrado/ApiQuadrado.csproj</code></pre>
 
 Entrando na pasta criada (ApiQuadrado) vamos inserir a referência para a nossa classlib Quadrado
-<pre><code>dotnt add reference ../Quadrado/Quadrado.csproj</code></pre>
+<pre><code>dotnet add reference ../Quadrado/Quadrado.csproj</code></pre>
 
 Atualizando as dependências da nossa Web API
 <pre><code>dotnet restore</code></pre>
