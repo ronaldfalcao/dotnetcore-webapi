@@ -55,7 +55,7 @@ O seu retorno deve ser o valor do lado do quadrado e sua área. Muito útil :-)
 ## Conclusões
 Desenvolver em .NET Core em ambiente Linux não é algo que os desenvolvedores tradicionais dessa linguagem devam amar. Principalmente pelo fato do Linux ainda não ter uma IDE a altura do Visual Studio. Mas vejo algum futuro para o framework no mundo opensource, principalmente na questão de serviços. Apesar do exemplo tosco que fiz ele dá uma ideia de como fornecer serviços em ambientes Linux, o que é uma ótima alternativa para quem quer um ambiente leve, elástico e de baixo custo. 
 
-###Fontes
+### Fontes
 http://www.c-sharpcorner.com/article/create-your-first-asp-net-core-application-on-ubuntulinux/
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/your-first-mac-aspnet
 https://medium.com/@felipedutratine/how-to-code-and-host-a-dotnet-core-webapi-on-a-linux-container-b8a459b00fa7
