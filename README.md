@@ -1,13 +1,13 @@
-# Exemplo de WEBApi com .NET Core (versão 2 preview)
+# Exemplo de Web API com .NET Core (versão 2 preview)
 Passo longe de ser um conhecedor de .NET, mas achei interessante a ideia de ter o dotnet Core para Linux. Por isso fiz um pequeno exemplo mostrando como criar uma estrutura simples de API e seu consumo.
 
-## Porque usei o VSCode para o exemplo?
+## Porque usei o VS Code para o exemplo?
 Pensei sobre isso e tive certa dificuldade em configurar o Sublime para fazer esse teste. Instalar os plugins e tudo mais não foi tão fácil como pensei. Outro ponto, parti do pressuposto que uma ferramenta mantida com apoio da Microsoft seria mais adequada para desenvolver com C# no .NET Core. Realmente foi, abri a pasta e já foram carregados os plugins necessários para C#, assim como o ambiente de debug e build. Facilitaram meu trabalho, e precisei debugar muito :-)
 
 ## Ambiente de Desenvolvimento Linux/Microsoft
 A instalação do dotnet Core no Linux (no meu caso Ubuntu) foi bem fácil. Você pode ver isso em https://www.microsoft.com/net/core#linuxubuntu
 
-O VSCode também não traz dificuldades na sua instalação, basta seguir os passos indicados em https://code.visualstudio.com/docs/setup/linux. Não tem respositório e precisa baixar o arquivo, mas o próprio VSCode se encarrega das atualizações.
+O VS Code também não traz dificuldades na sua instalação, basta seguir os passos indicados em https://code.visualstudio.com/docs/setup/linux. Não tem respositório e precisa baixar o arquivo, mas o próprio VS Code se encarrega das atualizações.
 
 ## Agora à Prática
 
@@ -35,13 +35,13 @@ O dotnet cria o arquivo padrão dentro dessa pasta, *Class1.cs*. Alterei para *Q
 Caso tenha cometido algum erro você pode debugá-lo utilizando a aba Debug Console do VS Code, ou pela saída do terminal. Como não tenho intimidade com a ferramenta recorri ao terminal mesmo. Vamos criar agora nossa webAPI
 <pre><code>dotnet new webapi -n ApiQuadrado</code></pre>
 
-Precisamos vincular nossa webAPI ao projeto principal
+Precisamos vincular nossa Web API ao projeto principal
 <pre><code>dotnet sln add ApiQuadrado/ApiQuadrado.csproj</code></pre>
 
 Entrando na pasta criada (ApiQuadrado) vamos inserir a referência para a nossa classlib Quadrado
 <pre><code>dotnt add reference ../Quadrado/Quadrado.csproj</code></pre>
 
-Atualizando as dependências da nossa webAPI
+Atualizando as dependências da nossa Web API
 <pre><code>dotnet restore</code></pre>
 
 Aqui também foi criado o arquivo default *ValuesController.cs* na pasta *Controllers*, vamos mudei seu nome para *AreaQuadrado.cs*. O conteúdo desse arquivo também se encontra aqui no código versionado. Finalmente podemos rodar nosso projeto.
