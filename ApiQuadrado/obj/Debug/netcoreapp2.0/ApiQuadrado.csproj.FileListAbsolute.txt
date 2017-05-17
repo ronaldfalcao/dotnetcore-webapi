@@ -1,0 +1,13 @@
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/ApiQuadrado.deps.json
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/ApiQuadrado.runtimeconfig.json
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/ApiQuadrado.runtimeconfig.dev.json
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/obj/Debug/netcoreapp2.0/ApiQuadrado.csproj.CoreCompileInputs.cache
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/obj/Debug/netcoreapp2.0/ApiQuadrado.AssemblyInfo.cs
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/ApiQuadrado.dll
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/ApiQuadrado.pdb
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/Quadrado.dll
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/bin/Debug/netcoreapp2.0/Quadrado.pdb
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/obj/Debug/netcoreapp2.0/ApiQuadrado.dll
+/home/ronald/workspace/dotnet/ApiRestQuadrado/ApiQuadrado/obj/Debug/netcoreapp2.0/ApiQuadrado.pdb
